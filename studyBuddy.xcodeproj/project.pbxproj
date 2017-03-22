@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		890035521E81CC980056D1CB /* studyBuddy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = studyBuddy.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		890035521E81CC980056D1CB /* StudyBuddy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StudyBuddy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		890035551E81CC980056D1CB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		890035571E81CC980056D1CB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		8900355A1E81CC980056D1CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		890035531E81CC980056D1CB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				890035521E81CC980056D1CB /* studyBuddy.app */,
+				890035521E81CC980056D1CB /* StudyBuddy.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		890035511E81CC980056D1CB /* studyBuddy */ = {
+		890035511E81CC980056D1CB /* StudyBuddy */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 890035641E81CC980056D1CB /* Build configuration list for PBXNativeTarget "studyBuddy" */;
+			buildConfigurationList = 890035641E81CC980056D1CB /* Build configuration list for PBXNativeTarget "StudyBuddy" */;
 			buildPhases = (
 				8900354E1E81CC980056D1CB /* Sources */,
 				8900354F1E81CC980056D1CB /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = studyBuddy;
+			name = StudyBuddy;
 			productName = studyBuddy;
-			productReference = 890035521E81CC980056D1CB /* studyBuddy.app */;
+			productReference = 890035521E81CC980056D1CB /* StudyBuddy.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -100,7 +100,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 8900354D1E81CC980056D1CB /* Build configuration list for PBXProject "studyBuddy" */;
+			buildConfigurationList = 8900354D1E81CC980056D1CB /* Build configuration list for PBXProject "StudyBuddy" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -113,7 +113,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				890035511E81CC980056D1CB /* studyBuddy */,
+				890035511E81CC980056D1CB /* StudyBuddy */,
 			);
 		};
 /* End PBXProject section */
@@ -281,7 +281,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8900354D1E81CC980056D1CB /* Build configuration list for PBXProject "studyBuddy" */ = {
+		8900354D1E81CC980056D1CB /* Build configuration list for PBXProject "StudyBuddy" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				890035621E81CC980056D1CB /* Debug */,
@@ -290,13 +290,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		890035641E81CC980056D1CB /* Build configuration list for PBXNativeTarget "studyBuddy" */ = {
+		890035641E81CC980056D1CB /* Build configuration list for PBXNativeTarget "StudyBuddy" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				890035651E81CC980056D1CB /* Debug */,
 				890035661E81CC980056D1CB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

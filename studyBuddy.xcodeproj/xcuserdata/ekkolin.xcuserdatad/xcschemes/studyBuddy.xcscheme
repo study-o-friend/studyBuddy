@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "890035511E81CC980056D1CB"
-               BuildableName = "studyBuddy.app"
-               BlueprintName = "studyBuddy"
-               ReferencedContainer = "container:studyBuddy.xcodeproj">
+               BuildableName = "StudyBuddy.app"
+               BlueprintName = "StudyBuddy"
+               ReferencedContainer = "container:StudyBuddy.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "890035511E81CC980056D1CB"
-            BuildableName = "studyBuddy.app"
-            BlueprintName = "studyBuddy"
-            ReferencedContainer = "container:studyBuddy.xcodeproj">
+            BuildableName = "StudyBuddy.app"
+            BlueprintName = "StudyBuddy"
+            ReferencedContainer = "container:StudyBuddy.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "890035511E81CC980056D1CB"
-            BuildableName = "studyBuddy.app"
-            BlueprintName = "studyBuddy"
-            ReferencedContainer = "container:studyBuddy.xcodeproj">
+            BuildableName = "StudyBuddy.app"
+            BlueprintName = "StudyBuddy"
+            ReferencedContainer = "container:StudyBuddy.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "890035511E81CC980056D1CB"
-            BuildableName = "studyBuddy.app"
-            BlueprintName = "studyBuddy"
-            ReferencedContainer = "container:studyBuddy.xcodeproj">
+            BuildableName = "StudyBuddy.app"
+            BlueprintName = "StudyBuddy"
+            ReferencedContainer = "container:StudyBuddy.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
