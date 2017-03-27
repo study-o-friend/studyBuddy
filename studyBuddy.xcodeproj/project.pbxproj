@@ -9,21 +9,35 @@
 /* Begin PBXBuildFile section */
 		06AAAA78756C6AA4AD6ADBD3 /* Pods_StudyBuddy.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F68EE13E6F701143868B453B /* Pods_StudyBuddy.framework */; };
 		890035561E81CC980056D1CB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 890035551E81CC980056D1CB /* AppDelegate.swift */; };
-		890035581E81CC980056D1CB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 890035571E81CC980056D1CB /* ViewController.swift */; };
 		8900355B1E81CC980056D1CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 890035591E81CC980056D1CB /* Main.storyboard */; };
 		8900355D1E81CC980056D1CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8900355C1E81CC980056D1CB /* Assets.xcassets */; };
 		890035601E81CC980056D1CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8900355E1E81CC980056D1CB /* LaunchScreen.storyboard */; };
+		8958D41E1E84B5B000EA07C4 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8958D41D1E84B5B000EA07C4 /* LoginViewController.swift */; };
+		89A06C4B1E8838420020A9DA /* CoursesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89A06C4A1E8838420020A9DA /* CoursesViewController.swift */; };
+		89A06C4D1E8848190020A9DA /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89A06C4C1E8848190020A9DA /* User.swift */; };
+		89A06C4F1E8848210020A9DA /* Course.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89A06C4E1E8848210020A9DA /* Course.swift */; };
+		89A06C511E887C9B0020A9DA /* ReportViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89A06C501E887C9B0020A9DA /* ReportViewController.swift */; };
+		89A06C551E8890040020A9DA /* CreateCourseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89A06C541E8890040020A9DA /* CreateCourseViewController.swift */; };
+		89A06C571E88903C0020A9DA /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89A06C561E88903C0020A9DA /* RegisterViewController.swift */; };
+		89A06C5B1E8891990020A9DA /* CourseCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89A06C5A1E8891990020A9DA /* CourseCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		37148AD126FDDDC113472A23 /* Pods-StudyBuddy.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StudyBuddy.debug.xcconfig"; path = "Pods/Target Support Files/Pods-StudyBuddy/Pods-StudyBuddy.debug.xcconfig"; sourceTree = "<group>"; };
 		890035521E81CC980056D1CB /* StudyBuddy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StudyBuddy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		890035551E81CC980056D1CB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		890035571E81CC980056D1CB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		8900355A1E81CC980056D1CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8900355C1E81CC980056D1CB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8900355F1E81CC980056D1CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		890035611E81CC980056D1CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8958D41D1E84B5B000EA07C4 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		89A06C4A1E8838420020A9DA /* CoursesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoursesViewController.swift; sourceTree = "<group>"; };
+		89A06C4C1E8848190020A9DA /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		89A06C4E1E8848210020A9DA /* Course.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Course.swift; sourceTree = "<group>"; };
+		89A06C501E887C9B0020A9DA /* ReportViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReportViewController.swift; sourceTree = "<group>"; };
+		89A06C541E8890040020A9DA /* CreateCourseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateCourseViewController.swift; sourceTree = "<group>"; };
+		89A06C561E88903C0020A9DA /* RegisterViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
+		89A06C5A1E8891990020A9DA /* CourseCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CourseCell.swift; sourceTree = "<group>"; };
 		F68EE13E6F701143868B453B /* Pods_StudyBuddy.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_StudyBuddy.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC2789B269A254D6A2F56C99 /* Pods-StudyBuddy.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StudyBuddy.release.xcconfig"; path = "Pods/Target Support Files/Pods-StudyBuddy/Pods-StudyBuddy.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -70,14 +84,45 @@
 		890035541E81CC980056D1CB /* studyBuddy */ = {
 			isa = PBXGroup;
 			children = (
+				89A06C491E88331F0020A9DA /* Models */,
+				8958D41C1E84B43100EA07C4 /* View Controllers */,
+				8958D41B1E84B42700EA07C4 /* Views */,
 				890035551E81CC980056D1CB /* AppDelegate.swift */,
-				890035571E81CC980056D1CB /* ViewController.swift */,
 				890035591E81CC980056D1CB /* Main.storyboard */,
 				8900355C1E81CC980056D1CB /* Assets.xcassets */,
 				8900355E1E81CC980056D1CB /* LaunchScreen.storyboard */,
 				890035611E81CC980056D1CB /* Info.plist */,
 			);
 			path = studyBuddy;
+			sourceTree = "<group>";
+		};
+		8958D41B1E84B42700EA07C4 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				89A06C5A1E8891990020A9DA /* CourseCell.swift */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		8958D41C1E84B43100EA07C4 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				8958D41D1E84B5B000EA07C4 /* LoginViewController.swift */,
+				89A06C561E88903C0020A9DA /* RegisterViewController.swift */,
+				89A06C4A1E8838420020A9DA /* CoursesViewController.swift */,
+				89A06C541E8890040020A9DA /* CreateCourseViewController.swift */,
+				89A06C501E887C9B0020A9DA /* ReportViewController.swift */,
+			);
+			name = "View Controllers";
+			sourceTree = "<group>";
+		};
+		89A06C491E88331F0020A9DA /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				89A06C4C1E8848190020A9DA /* User.swift */,
+				89A06C4E1E8848210020A9DA /* Course.swift */,
+			);
+			name = Models;
 			sourceTree = "<group>";
 		};
 		F625D1122AD0697AB12350F3 /* Frameworks */ = {
@@ -211,8 +256,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				890035581E81CC980056D1CB /* ViewController.swift in Sources */,
+				89A06C571E88903C0020A9DA /* RegisterViewController.swift in Sources */,
+				89A06C4F1E8848210020A9DA /* Course.swift in Sources */,
+				8958D41E1E84B5B000EA07C4 /* LoginViewController.swift in Sources */,
+				89A06C4B1E8838420020A9DA /* CoursesViewController.swift in Sources */,
+				89A06C5B1E8891990020A9DA /* CourseCell.swift in Sources */,
 				890035561E81CC980056D1CB /* AppDelegate.swift in Sources */,
+				89A06C4D1E8848190020A9DA /* User.swift in Sources */,
+				89A06C551E8890040020A9DA /* CreateCourseViewController.swift in Sources */,
+				89A06C511E887C9B0020A9DA /* ReportViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
